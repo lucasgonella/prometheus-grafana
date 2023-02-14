@@ -1,0 +1,17 @@
+{
+	"ulid": "01GS45TV7RDHPYTGCF3622N5QA",
+	"minTime": 1676239929211,
+	"maxTime": 1676246400000,
+	"stats": {
+		"numSamples": 486691,
+		"numSeries": 930,
+		"numChunks": 3622
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GS45TV7RDHPYTGCF3622N5QA"
+		]
+	},
+	"version": 1
+}
